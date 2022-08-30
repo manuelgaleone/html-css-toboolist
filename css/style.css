@@ -167,3 +167,25 @@ body {
     font-size: 25px;
     margin-bottom: 35px;
 }
+
+.sales {
+    font-size: 12px;
+    color: white;
+    background-color: #B5C749;
+    border: #B5C749 solid;
+    border-radius: 10px;
+    padding: 5px;
+    vertical-align: middle;
+    margin-left: 5px;
+}
+
+.website {
+    font-size: 12px;
+    color: white;
+    background-color: #CA6B9F;
+    border: #CA6B9F solid;
+    border-radius: 10px;
+    padding: 5px;
+    vertical-align: middle;
+    margin-left: 5px;
+}
