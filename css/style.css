@@ -32,17 +32,22 @@ body {
 
 }
 
-.main-container {
+.sub-header {
+    border-bottom: 1px lightgrey solid;
     padding: 20px;
+}
+
+.main-container {
+
     background-color: white;
     box-sizing: border-box;
     margin-top: 50px;
-    margin-left: 500px;
-    margin-right: 500px;
+    margin-left: auto;
+    margin-right: auto;
     margin-bottom: 100px;
     border: #61ACEB;
-    border-radius: 10px
-    
+    border-radius: 10px;
+    width: 50%;
 }
 
 /*Buttons*/
