@@ -1,0 +1,17 @@
+header {
+background-color: white;
+
+}
+
+.logo {
+    vertical-align:bottom;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.main-title {
+font-family: Arial;
+font-size: 45px;
+font-weight: 700;
+
+}
