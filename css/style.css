@@ -1,22 +1,68 @@
+/* General Settings */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+
+}
+
 /*Header and Logo*/
-header {
-background-color: white;
-padding:25px;
+.main-header {
+    background-color: white;
+    padding: 10px 10px;
+
 }
 
 .logo {
-    vertical-align:bottom;
+    vertical-align: middle;
 
 }
 
 .main-title {
-font-family: Arial;
-font-size: 45px;
-font-weight: 700;
+    font-size: 40px;
+    font-weight: 700;
+    vertical-align: middle;
 
 }
 
 /*Body and Main*/
 body {
     background-color: #F6F8F9;
+
+}
+
+.main-container {
+    padding: 20px;
+    background-color: white;
+    box-sizing: border-box;
+    margin-top: 50px;
+    margin-left: 500px;
+    margin-right: 500px;
+    border: #61ACEB;
+    border-radius: 5px
+    
+}
+
+/*Buttons*/
+.buttons {
+    margin-left: 50px;
+
+}
+
+#add-task {
+    background-color: #61ACEB;
+    width: 75px;
+    height: 30px;
+    border: #61ACEB solid;
+    border-radius: 5px;
+}
+
+#add-section {
+    background-color:white;
+    width: 90px;
+    height: 30px;
+    border: #CCCCCC solid;
+    border-radius: 5px;
+
 }
