@@ -75,12 +75,15 @@ body {
 
 .new-task {
     font-size: 25px;
+    margin-bottom: 35px;
 }
 
 .task {
     margin-top: 10px;
     font-size: 20px;
     vertical-align: middle;
+    margin-bottom: 10px;
+    padding: 5px
 }
 
 .check {
@@ -106,4 +109,61 @@ body {
     padding: 5px;
     vertical-align: middle;
     margin-left: 5px;
+}
+
+.today {
+    font-size: 25px;
+    margin-bottom: 35px;
+}
+
+.goals {
+    font-size: 12px;
+    color: white;
+    background-color: #9577DD;
+    border: #9577DD solid;
+    border-radius: 10px;
+    padding: 5px;
+    vertical-align: middle;
+    margin-left: 5px;
+}
+
+.recruiting {
+    font-size: 12px;
+    color: white;
+    background-color: #7BBDAA;
+    border: #7BBDAA solid;
+    border-radius: 10px;
+    padding: 5px;
+    vertical-align: middle;
+    margin-left: 5px;
+}
+
+.cross {
+    color: red;
+    border: 1px red solid;
+    border-radius: 50px;
+    padding: 5px;
+    height: 20px;
+    width: 20px;
+    font-size: 10px;
+    vertical-align: middle;
+    margin-right: 5px;
+    display: inline-block;
+
+}
+
+.mobile {
+    font-size: 12px;
+    color: white;
+    background-color: #E7A04B;
+    border: #E7A04B solid;
+    border-radius: 10px;
+    padding: 5px;
+    vertical-align: middle;
+    margin-left: 5px;
+}
+
+.upcoming {
+    font-size: 25px;
+    margin-bottom: 35px;
 }
